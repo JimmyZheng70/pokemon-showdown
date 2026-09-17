@@ -21301,4 +21301,6 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 		type: "Fire",
 		contestType: "Beautiful",
 	},
+
+	// Put ZZZ Signatrue moves under here
 };

@@ -5703,4 +5703,7 @@ export const Abilities: import('../sim/dex-abilities').AbilityDataTable = {
 		rating: 3,
 		num: -3,
 	},
+
+	// ZZZ Signature Abilities
+	
 };

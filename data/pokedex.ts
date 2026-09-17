@@ -21068,4 +21068,20 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 		gen: 5,
 	},
+
+	// ZZZ Characters
+	/*
+	anby: {
+		num: 128,
+		name: "Tauros",
+		types: ["Normal"],
+		gender: "M",
+		baseStats: { hp: 75, atk: 100, def: 95, spa: 40, spd: 70, spe: 110 },
+		abilities: { 0: "Intimidate", 1: "Anger Point", H: "Sheer Force" },
+		heightm: 1.4,
+		weightkg: 88.4,
+		color: "Brown",
+		otherFormes: ["Tauros-Paldea-Combat", "Tauros-Paldea-Blaze", "Tauros-Paldea-Aqua"],
+		formeOrder: ["Tauros", "Tauros-Paldea-Combat", "Tauros-Paldea-Blaze", "Tauros-Paldea-Aqua"],
+		eggGroups: ["Field"], */
 };
